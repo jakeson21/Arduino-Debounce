@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Debounce
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Debounce	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setDebounceDelay	KEYWORD2
+getDebounceDelay	KEYWORD2
+setpin	KEYWORD2
+getpin	KEYWORD2
+state	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
