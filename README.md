@@ -6,6 +6,7 @@ Button debounce library for Arduino. This library does not use interrupts so it 
 Usage
 ----------------
 ```
+#include <Debounce.h>
 // declare global variable
 Debounce debounced(pin, delay_ms);
 
